@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NATURE</title>
+</head>
+<body>
+<h1>NATURE</h1>
+<img src="">
+<p>
+ A natural disaster is "the negative impact following an actual occurrence of natural hazard in the event that it significantly harms a community".[1] A natural disaster can cause loss of life or damage property,[2] and typically leaves some economic damage in its wake. The severity of the damage depends on the affected population's resilience and on the infrastructure available.[3] Examples of natural hazards include: avalanche, coastal flooding, cold wave, drought, earthquake, hail, heat wave, hurricane (tropical cyclone), ice storm, landslide, lightning, riverine flooding, strong wind, tornado, typhoon, tsunami, volcanic activity, wildfire, winter weather.[1]
+</P>
+<hr>
+
+
+</body>
+<html>
